@@ -6,3 +6,5 @@ git is a distributed version control system
 123
 
 git has a mutable index called stage
+
+git tracks changes
